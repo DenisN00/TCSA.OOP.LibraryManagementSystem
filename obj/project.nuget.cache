@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rAfSM4UuDgU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DenyN\\Desktop\\IT-Leben\\CS-Projekte\\TCSA.OOP.LibraryManagementSystem\\TCSA.OOP.LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DenyN\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
