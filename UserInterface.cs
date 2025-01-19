@@ -1,4 +1,5 @@
 using Spectre.Console;
+using TCSA.OOP.LibraryManagementSystem.Models;
 using static TCSA.OOP.LibraryManagementSystem.Enums;
 
 
@@ -8,7 +9,7 @@ namespace TCSA.OOP.LibraryManagementSystem;
 internal class UserInterface
 {
 
-    BooksController userInterface = new BooksController();
+    private BooksController booksController = new BooksController();
     internal void MainMenu()
     {
         while (true)
@@ -23,15 +24,15 @@ internal class UserInterface
             switch (choice)
             {
                 case MenuOption.ViewBooks:
-                    userInterface.ViewBooks();
+                    booksController.ViewBooks();
                     break;
 
                 case MenuOption.AddBook:
-                    userInterface.AddBook();
+                    booksController.AddBook();
                     break;
 
                 case MenuOption.DeleteBook:
-                    userInterface.DeleteBook();
+                    booksController.DeleteBook();
                     break;
             }
         }

@@ -15,3 +15,4 @@ C:\Users\DenyN\Desktop\IT-Leben\CS-Projekte\TCSA.OOP.LibraryManagementSystem\obj
 C:\Users\DenyN\Desktop\IT-Leben\CS-Projekte\TCSA.OOP.LibraryManagementSystem\obj\Debug\net9.0\TCSA.OOP.LibraryManagementSystem.pdb
 C:\Users\DenyN\Desktop\IT-Leben\CS-Projekte\TCSA.OOP.LibraryManagementSystem\obj\Debug\net9.0\TCSA.OOP.LibraryManagementSystem.genruntimeconfig.cache
 C:\Users\DenyN\Desktop\IT-Leben\CS-Projekte\TCSA.OOP.LibraryManagementSystem\obj\Debug\net9.0\ref\TCSA.OOP.LibraryManagementSystem.dll
+C:\Users\DenyN\Desktop\IT-Leben\CS-Projekte\TCSA.OOP.LibraryManagementSystem\obj\Debug\net9.0\TCSA.OOP.LibraryManagementSystem.sourcelink.json
